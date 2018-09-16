@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.Write("versão 1.0");
+            Console.Write("versão 1.0 oficial");
             Console.Read();
         }
     }
